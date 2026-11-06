@@ -62,24 +62,8 @@ After permission is granted, FusedLocationProviderClient retrieves the last know
 8. The user's location is displayed on Google Maps.
 
 ## Output Screenshots
+<img width="1536" height="1024" alt="Triptych Map Screenshots with Updated Details" src="https://github.com/user-attachments/assets/a475cb55-3e03-4481-a930-7bda4a24f0ff" />
 
-### 1. Application Home Screen
-
-<!-- Add your application home screen screenshot here -->
-
-![Application Home Screen](screenshots/home_screen.png)
-
-### 2. Google Maps Display
-
-<!-- Add your Google Maps screenshot here -->
-
-![Google Maps Screen](screenshots/google_maps.png)
-
-### 3. Current Location Display
-
-<!-- Add your current location screenshot here -->
-
-![Current Location](screenshots/current_location.png)
 
 ## Default Map Location
 
